@@ -1,0 +1,15 @@
+td {
+  padding: 4px;
+}
+th {
+  padding: 4px;
+}
+
+#job-title {
+  color: red;
+  text-align: right;
+}
+.favorite {
+  font-weight: bold;
+  color: violet;
+}
